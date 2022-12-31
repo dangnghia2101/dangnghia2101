@@ -13,7 +13,7 @@
 
 ### :Men_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 
 - 🔭 I’m working as a Mobile Developer and BlockChain.
 - 🌱 Exploring Technical Content Writing.
