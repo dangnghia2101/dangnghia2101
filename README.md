@@ -23,8 +23,8 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/512/179/179308.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://img.freepik.com/premium-vector/blockchain-technology-icon-cryptocurrency-payment-service-vector-emblem-blue-cubes-with-key-computer-motherboard-tracks-digital-money-technology-future-electronic-transaction-database_8071-4782.jpg?w=2000" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://cdn-icons-png.flaticon.com/512/2913/2913974.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
