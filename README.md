@@ -21,9 +21,9 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/5968/5968381.png](https://cdn-icons-png.flaticon.com/512/179/179308.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://cdn-icons-png.flaticon.com/512/2913/2913974.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
