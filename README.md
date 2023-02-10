@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there </h1>
+<h1 align="center">Đặng Tuấn Nghĩa </h1>
 
 
 ### :Men_technologist: &nbsp;About Me :
