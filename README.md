@@ -17,25 +17,31 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🌱 Exploring Technical Content Writing.
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://cdn-icons-png.flaticon.com/512/179/179308.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://img.freepik.com/premium-vector/blockchain-technology-icon-cryptocurrency-payment-service-vector-emblem-blue-cubes-with-key-computer-motherboard-tracks-digital-money-technology-future-electronic-transaction-database_8071-4782.jpg?w=2000" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kotlinlang_logo_icon_170356.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</p>
+
+### 🛠 &nbsp;Frameworks :
+<p>
+ <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</p>
+
+### 🛠 &nbsp;Tools :
+<p>
  <img src="https://cdn-icons-png.flaticon.com/512/2913/2913974.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" title="Xcode" alt="Xcode " width="40" height="40"/>&nbsp;
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?2021080422151" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+ ...
 </p>
 
 ---
