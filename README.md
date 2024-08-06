@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/nghia-dang-a5544525a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dangnghia2101&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Đặng Tuấn Nghĩa </h1>
 
@@ -13,7 +13,7 @@
 
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 
-- 🔭 I’m working as a Mobile Developer and BlockChain.
+- 🔭 I’m working as a Mobile Developer (React Native & Kotlin Multiflatform).
 - 🌱 Exploring Technical Content Writing.
 ---
 
