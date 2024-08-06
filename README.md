@@ -34,7 +34,7 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### 🛠 &nbsp;Tools :
 <p>
- <img src="https://cdn-icons-png.flaticon.com/512/2913/2913974.png" title="Typescript" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F69257cb2-1b88-4d76-ae6b-5ef6469d1a23&w=384&q=75" title="GithubDT" alt="GithubDT" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" title="Xcode" alt="Xcode " width="40" height="40"/>&nbsp;
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
